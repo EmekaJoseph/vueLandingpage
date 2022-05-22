@@ -2,7 +2,9 @@
     <div>
         <nav class="py-3 navbar navbar-expand-lg navbar-light bg-white">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Apex</a>
+                <a class="navbar-brand" href="#">
+                    <img src="../assets/img/apex.png" alt="">
+                </a>
                 <div style="margin-left: 200px;" class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <span class="nav-link mx-3"><a href="#">Demos</a></span>

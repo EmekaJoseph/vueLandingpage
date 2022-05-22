@@ -51,7 +51,7 @@
 
 <style scoped>
 .largeFront {
-    min-height: 100vh;
+    /* min-height: 100vh; */
     background-size: cover;
     background-position: center center;
     padding: 15px;

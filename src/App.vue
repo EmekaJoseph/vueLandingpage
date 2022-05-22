@@ -1,11 +1,13 @@
 <script setup>
-import Header from './components/headerComponent.vue'
+import Headd from './components/headerComponent.vue'
 import Hero from './components/heroComponent.vue'
+import Features from './components/featuresComponent.vue'
 </script>
 
 <template>
-  <Header />
+  <Headd />
   <Hero />
+  <Features />
 </template>
 
 <style>
