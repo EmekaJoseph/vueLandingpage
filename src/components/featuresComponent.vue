@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h2 class="text-center my-5">Features of a better experience</h2>
+        <h2 class="text-center mt-5 mb-3">Features of a better experience</h2>
         <div class="row">
             <div class="col-md-4">
                 <div class="row ccard">

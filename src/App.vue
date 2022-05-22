@@ -2,12 +2,16 @@
 import Headd from './components/headerComponent.vue'
 import Hero from './components/heroComponent.vue'
 import Features from './components/featuresComponent.vue'
+import VideoC from './components/videoComponent.vue'
 </script>
 
 <template>
-  <Headd />
-  <Hero />
-  <Features />
+  <div>
+    <Headd />
+    <Hero />
+    <Features />
+    <VideoC />
+  </div>
 </template>
 
 <style>
