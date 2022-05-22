@@ -38,7 +38,7 @@
 }
 
 .navbar-brand {
-    margin-left: 150px
+    margin-left: 110px
 }
 
 @media (max-width: 991px) {
