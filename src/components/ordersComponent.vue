@@ -1,17 +1,18 @@
 <template>
-    <div class="videoComponent">
+    <div class="main">
         <div class="col-md-12">
             <div class="row justify-content-center gy-3">
                 <div class="col-md-5">
-                    <img src="../assets/img/video.png" alt="">
+                    <img src="../assets/img/orders.png" alt="">
                 </div>
                 <div class="col-12 col-lg-4">
                     <p>
-                    <h3>Meet your customers with live video chat</h3>
-                    </p>
+                    <h3>Get direct orders from your customers</h3>
+                    </p> <br>
                     <p>Get paychecks up to two days early, Get a $20 bonus when you receive qualifying direct deposits.
                     </p>
-                    <p>Get paychecks up to two days early, Get a $20 bonus when you receive qualifying direct deposits.
+                    <p>
+                        <img src="../assets/img/4k.PNG" alt="">
                     </p>
                 </div>
             </div>
@@ -24,7 +25,7 @@
 </script>
 
 <style scoped>
-.videoComponent {
+.main {
     background-color: #f5f5f5;
     padding-block: 100px;
     margin-block: 40px;
@@ -35,7 +36,7 @@
         width: 100%;
     }
 
-    .videoComponent {
+    .main {
         padding: 50px;
     }
 }

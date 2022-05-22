@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container main">
         <h2 class="text-center my-5">Features of a better experience</h2>
         <div class="row">
             <div class="col-md-4">
@@ -44,6 +44,11 @@
 </script>
 
 <style scoped>
+.main {
+    padding-block: 100px;
+    margin-block: 40px;
+}
+
 @media (max-width: 991px) {
     .ccard {
         padding: 10px 30px;
@@ -59,6 +64,11 @@
 
     .textH {
         text-align: center;
+    }
+
+    .main {
+        padding: 50px;
+        margin-block: 0px;
     }
 }
 </style>

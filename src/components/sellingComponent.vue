@@ -25,7 +25,7 @@
 
 <style scoped>
 .main {
-    padding: 80px;
+    padding-block: 100px;
     margin-block: 40px;
 }
 
