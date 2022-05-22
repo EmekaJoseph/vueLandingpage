@@ -3,6 +3,7 @@ import Headd from './components/headerComponent.vue'
 import Hero from './components/heroComponent.vue'
 import Features from './components/featuresComponent.vue'
 import VideoC from './components/videoComponent.vue'
+import Selling from './components/sellingComponent.vue'
 </script>
 
 <template>
@@ -11,6 +12,7 @@ import VideoC from './components/videoComponent.vue'
     <Hero />
     <Features />
     <VideoC />
+    <Selling />
   </div>
 </template>
 
