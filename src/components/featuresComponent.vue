@@ -45,8 +45,7 @@
 
 <style scoped>
 .main {
-    padding-block: 100px;
-    margin-block: 40px;
+    padding-block: 70px;
 }
 
 @media (max-width: 991px) {

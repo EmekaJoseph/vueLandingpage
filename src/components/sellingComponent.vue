@@ -2,7 +2,7 @@
     <div class="main">
         <div class="col-md-12">
             <div class="row justify-content-center gy-3">
-                <div class="col-12 col-lg-4">
+                <div class="col-12 col-lg-4 order-2 order-lg-1">
                     <p>
                     <h2>Start selling directly inside conversations</h2>
                     </p>
@@ -11,7 +11,7 @@
                     <p><button class="btn btn-warning text-white">Start Chatting Now</button></p>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 order-1 order-lg-2">
                     <img src="../assets/img/selling.png" alt="">
                 </div>
             </div>
@@ -29,6 +29,10 @@
     margin-block: 40px;
 }
 
+img {
+    width: 500px;
+}
+
 @media (max-width: 991px) {
     img {
         width: 100%;
@@ -37,5 +41,10 @@
     .main {
         padding: 50px;
     }
+}
+
+.btn-warning {
+    background-color: #fb8e0b;
+    border: none;
 }
 </style>

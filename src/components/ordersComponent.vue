@@ -26,9 +26,13 @@
 
 <style scoped>
 .main {
-    background-color: #f5f5f5;
+    background-color: #faf9f9;
     padding-block: 100px;
     margin-block: 40px;
+}
+
+img {
+    width: 500px;
 }
 
 @media (max-width: 991px) {

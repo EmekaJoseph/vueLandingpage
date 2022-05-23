@@ -5,6 +5,7 @@ import Features from './components/featuresComponent.vue'
 import VideoC from './components/videoComponent.vue'
 import Selling from './components/sellingComponent.vue'
 import Orders from './components/ordersComponent.vue'
+import Client from './components/clientComponent.vue'
 </script>
 
 <template>
@@ -14,7 +15,7 @@ import Orders from './components/ordersComponent.vue'
     <Features />
     <VideoC />
     <Selling />
-    <Orders />
+    <Client />
   </div>
 </template>
 

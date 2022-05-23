@@ -80,4 +80,9 @@
         width: 300px;
     }
 }
+
+.btn-warning {
+    background-color: #fb8e0b;
+    border: none;
+}
 </style>
