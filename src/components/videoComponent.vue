@@ -1,5 +1,5 @@
 <template>
-    <div class="videoComponent">
+    <div class="videoComponent container-fluid">
         <div class="col-md-12">
             <div class="row justify-content-center gy-3">
                 <div class="col-md-5">
@@ -25,13 +25,12 @@
 
 <style scoped>
 .videoComponent {
-    background-color: #faf9f9;
+    background-color: #f8f8fa;
     padding-block: 100px;
-    margin-block: 40px;
 }
 
 img {
-    width: 500px;
+    width: 100%;
 }
 
 @media (max-width: 991px) {

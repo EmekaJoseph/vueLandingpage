@@ -1,5 +1,5 @@
 <template>
-    <div class="main">
+    <div class="main container-fluid">
         <div class="col-md-12">
             <div class="row justify-content-center my-3 mb-5">
                 <div class="col-md-4">
@@ -26,7 +26,6 @@
 .main {
     background-color: #fb8e0b;
     padding-block: 100px;
-    margin-block: 40px;
 }
 
 /* img {

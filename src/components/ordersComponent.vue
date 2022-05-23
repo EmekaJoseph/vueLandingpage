@@ -1,5 +1,5 @@
 <template>
-    <div class="main">
+    <div class="main container-fluid">
         <div class="col-md-12">
             <div class="row justify-content-center gy-3">
                 <div class="col-md-5">
@@ -26,9 +26,8 @@
 
 <style scoped>
 .main {
-    background-color: #faf9f9;
+    background-color: #f8f8fa;
     padding-block: 100px;
-    margin-block: 40px;
 }
 
 img {
